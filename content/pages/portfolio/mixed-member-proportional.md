@@ -1,6 +1,6 @@
 ---
 title: Mixed-Member Proportional
-subtitle: lorem-ipsum
+subtitle: A modern and representitive Malaysia
 date: '2021-06-12'
 thumb_image_alt: Flags
 image_alt: Flags
