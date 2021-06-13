@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://malaya-society-5fc72.netlify.app"
+    "domain": "https://malaya-society-5fc72.netlify.app",
+    "favicon": "/images/icon.png"
 }
