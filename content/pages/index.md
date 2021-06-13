@@ -38,10 +38,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Strengthening ties with nations across the region, we provide
+          consultancy and expertise to companies and governments in areas such
+          as energy policy and security.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
