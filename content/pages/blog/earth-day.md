@@ -1,7 +1,7 @@
 ---
 title: 'Is Malaysia Ready for the Green Agenda? We Hope So, Too.'
 subtitle: 'Written by: BFM Morning Run Team'
-date: '2021-06-13'
+date: '2022-04-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
