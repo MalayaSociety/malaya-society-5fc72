@@ -99,7 +99,7 @@ seo:
         region, working with other organisations and government agencies.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/BMS-T.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
