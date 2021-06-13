@@ -51,9 +51,9 @@ sections:
           Publishing best practices from local experts and the world to advise
           and improve Malaysian quality of life for all.
       - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Fostering international relationships and connecting with our
+          international team through events.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
