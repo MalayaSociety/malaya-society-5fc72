@@ -19,8 +19,9 @@ layout: post
 thumb_image: /images/gerrymandering.jpg
 image: /images/gerrymandering.jpg
 excerpt: >-
-  Some may think this is not a Malaysian issue, however gerrymandering is alive
-  and well in Malaysia.
+  The art of politicians manipulating the redrawing of legislative district
+  lines in order to help win elections, some may think this is not a Malaysian
+  issue, however gerrymandering is alive and well in Malaysia.
 ---
 #### Gerrymandering in Malaysia
 
