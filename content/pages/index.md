@@ -69,7 +69,7 @@ sections:
           Great discussions with our #Malaysian #interlocutors on #institutional
           #reform, #ForeignPolicy issues, #MediaFreedom as well as the #economic
           and #social impact of #Covid19 in & @ASEAN.
-      - author: Aubrey Hoover
+      - author: Aninda Dewayanti
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
