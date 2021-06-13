@@ -107,7 +107,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        We seek to spread awareness of Malaysian culture and heritage across the
+        region, working with other organisations and government agencies.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
