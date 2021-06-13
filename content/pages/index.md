@@ -42,7 +42,7 @@ sections:
           Strengthening ties with nations across the region, we provide
           consultancy and expertise to companies and governments in areas such
           as energy policy and security.
-      - title: Service Title
+      - title: Culture & heritage
         content: >
           Showcasing the finest of Malaysian arts and culture to the world, and
           bringing the best from the region to Malaysia.
