@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: Welcome to the British Malaya Society
     content: >
       We are a good governance not-for-profit society.
 
