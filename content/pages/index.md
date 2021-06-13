@@ -46,7 +46,7 @@ sections:
         content: >
           Showcasing the finest of Malaysian arts and culture to the world, and
           bringing the best from the region to Malaysia.
-      - title: Service Title
+      - title: Education
         content: >
           Publishing best practices from local experts and the world to advise
           and improve Malaysian quality of life for all.
