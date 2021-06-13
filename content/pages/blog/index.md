@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: Keep up with the latest policy developments
+subtitle: Keep up with the latest policy developments.
 hide_title: false
 col_number: three
 seo:
