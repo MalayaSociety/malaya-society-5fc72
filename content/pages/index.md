@@ -77,7 +77,7 @@ sections:
           multilevel governance settings and using comparative analysis, Amalina
           Anuar and I look at the dynamic of trust in renewable energy policies
           and policymaking in Malaysia and Indonesia.
-      - author: Deegan Wallace
+      - author: EUROCHAM Malaysia
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
