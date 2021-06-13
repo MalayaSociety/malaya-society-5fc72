@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/parliament.jpg
+image: /images/parliament.jpg
 ---
 ## Lorem ipsum
 
