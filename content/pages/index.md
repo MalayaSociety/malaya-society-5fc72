@@ -95,6 +95,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
+    subtitle: Keep up with the latest de
 seo:
   title: The British Malaya Society
   description: >-
