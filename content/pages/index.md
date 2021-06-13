@@ -82,7 +82,9 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      From students to government and everything in between, we have built a
+      portfolio of contacts across the region.
     posts_number: 3
     col_number: three
     actions:
