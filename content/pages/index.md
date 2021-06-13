@@ -63,7 +63,7 @@ sections:
     col_number: three
     testimonials:
       - author: Charles Hay
-        avatar: images/sean_salazar.jpg
+        avatar: /images/charles-hay.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
