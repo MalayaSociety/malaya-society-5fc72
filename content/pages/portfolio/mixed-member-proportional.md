@@ -50,6 +50,6 @@ Usually no party gets enough votes to govern alone. Parties often need to come t
 
 Some types of possible agreements are:
 
-coalitions — when two or more parties join together to form a government
+*   coalitions — when two or more parties join together to form a government
 
 *   confidence and supply agreements — when one party agrees to support another on certain issues and laws that are voted on in Parliament.
