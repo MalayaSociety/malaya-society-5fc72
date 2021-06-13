@@ -37,7 +37,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Governmental advisory
         content: >
           Strengthening ties with nations across the region, we provide
           consultancy and expertise to companies and governments in areas such
