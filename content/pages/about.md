@@ -31,11 +31,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
+We are a non-governmental society that provides various services. Our Society is steeped in tradition, culture, and heritage and our multi-national team of experts from a diverse and wide background provide a wide range of services, whilst having a great deal of fun through events as well!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Though our primary purpose is now indeed policymaking, we still hold our heritage with us. Though with a modern and international twist. Our members host various tournaments, the best in regional cuisines, local coffee roasteries, and national (and international) excursions.
 
 *Thank You for reading!*
