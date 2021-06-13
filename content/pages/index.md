@@ -111,7 +111,7 @@ seo:
         We seek to spread awareness of Malaysian culture and heritage across the
         region, working with other organisations and government agencies.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/BMS-T.png
       relativeUrl: true
 layout: advanced
 ---
