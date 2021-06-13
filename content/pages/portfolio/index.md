@@ -1,6 +1,8 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: >-
+  Malaysian culture is diverse and unique, with much to offer from the world, we
+  too, can learn proven best practices from others.
 layout_style: tiles
 seo:
   title: Portfolio
