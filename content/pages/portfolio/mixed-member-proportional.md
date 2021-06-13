@@ -16,7 +16,7 @@ image: /images/parliament.jpg
 ---
 ##### The British Malaya Society and MMP
 
-The British Malaya Society has been encouraging Parliamentary reform in Malaysia, in order to create a more democratic and representative government, and to remove corrupt practices such as gerrymandering.
+**The British Malaya Society** has been encouraging Parliamentary reform in Malaysia, in order to create a more democratic and representative government, and to remove corrupt practices such as gerrymandering.
 
 ##### What is MMP?
 
