@@ -1,6 +1,6 @@
 ---
 title: Security
-subtitle: lorem-ipsum
+subtitle: Security Test
 date: '2021-06-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
