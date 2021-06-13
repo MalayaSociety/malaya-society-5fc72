@@ -71,7 +71,7 @@ sections:
           and #social impact of #Covid19 in & @ASEAN.
       - author: Aninda Dewayanti
         avatar: /images/aninda-dewayanti.jpg
-        avatar_alt: Aubrey Hoover's photo
+        avatar_alt: Aninda Dewayanti's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
