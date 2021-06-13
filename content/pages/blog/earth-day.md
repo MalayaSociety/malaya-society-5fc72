@@ -4,7 +4,11 @@ subtitle: 'Written by: BFM Morning Run Team'
 date: '2021-04-22'
 thumb_image_alt: Electric vehicle charging
 image_alt: Electric vehicle charging
-excerpt: lorem-ipsum
+excerpt: >-
+  Happy Earth Day! In chairing the first meeting of the Malaysian Climate Change
+  Action Council (MyCAC) last week, Prime Minister Tan Sri Muhyiddin Yassin
+  outlined six approaches that will be implemented by the government to address
+  climate change issues.
 seo:
   title: ''
   description: ''
