@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: Keep up with the latest policy developments
 hide_title: false
 col_number: three
 seo:
