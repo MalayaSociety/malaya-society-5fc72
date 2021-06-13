@@ -10,6 +10,11 @@ sections:
 
 
       A member of the team will respond to you as soon as possible.
+
+
+      Our check out our social pages over at [Twitter
+      (@MalayaSociety)](https://twitter.com/MalayaSociety) and
+      [Instagram.com/MalayaSociety](https://instagram.com/MalayaSociety).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
