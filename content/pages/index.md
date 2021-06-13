@@ -66,9 +66,9 @@ sections:
         avatar: /images/charles-hay.jpg
         avatar_alt: Charles Hay's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Great discussions with our #Malaysian #interlocutors on #institutional
+          #reform, #ForeignPolicy issues, #MediaFreedom as well as the #economic
+          and #social impact of #Covid19 in & @ASEAN.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
