@@ -31,7 +31,9 @@ sections:
   - section_id: services
     type: section_grid
     title: What we do
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      Malaysian culture is diverse and unique, with much to offer from the
+      world, we too, can learn proven best practices from others.
     col_number: two
     is_numbered: true
     grid_items:
