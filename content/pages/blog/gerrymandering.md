@@ -18,6 +18,9 @@ seo:
 layout: post
 thumb_image: /images/gerrymandering.jpg
 image: /images/gerrymandering.jpg
+excerpt: >-
+  Some may think this is not a Malaysian issue, however gerrymandering is alive
+  and well in Malaysia. 
 ---
 #### Gerrymandering in Malaysia
 
