@@ -105,7 +105,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: The British Malaya Society
     - name: 'twitter:description'
       value: >-
         We seek to spread awareness of Malaysian culture and heritage across the
