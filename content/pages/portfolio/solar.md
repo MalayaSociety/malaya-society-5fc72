@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: project
+thumb_image: /images/solar-revise.jpg
 ---
 Earth day is one of the biggest annual events being held globally to support the environmental movement to protect our planet. It was founded in 1970 when thousands of people gathered together in the United States to voice out awareness about environmental issues.
 
