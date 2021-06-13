@@ -73,8 +73,10 @@ sections:
         avatar: /images/aninda-dewayanti.jpg
         avatar_alt: Aninda Dewayanti's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Very pleased that our article is now out in @WileyPolitics! Adapting
+          multilevel governance settings and using comparative analysis, Amalina
+          Anuar and I look at the dynamic of trust in renewable energy policies
+          and policymaking in Malaysia and Indonesia.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
