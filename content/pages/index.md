@@ -22,7 +22,9 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Our portfolio
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      Malaysian culture is diverse and unique, with much to offer from the
+      world, we too, can learn proven best practices from others.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
