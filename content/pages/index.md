@@ -70,7 +70,7 @@ sections:
           #reform, #ForeignPolicy issues, #MediaFreedom as well as the #economic
           and #social impact of #Covid19 in & @ASEAN.
       - author: Aninda Dewayanti
-        avatar: images/aubrey_hoover.jpg
+        avatar: /images/aninda-dewayanti.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
