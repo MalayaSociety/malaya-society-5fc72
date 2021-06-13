@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 thumb_image: /images/1.jpg
+image: /images/1_thumb.jpg
 ---
 ## Lorem ipsum
 
