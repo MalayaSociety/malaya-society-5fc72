@@ -3,7 +3,7 @@ title: Security
 subtitle: Security Test
 date: '2021-06-13'
 thumb_image_alt: Security Test
-image_alt: lorem-ipsum
+image_alt: Security Test
 seo:
   title: ''
   description: ''
