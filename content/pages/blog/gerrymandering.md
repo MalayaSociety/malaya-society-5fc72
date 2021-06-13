@@ -6,7 +6,7 @@ subtitle: >-
   enemies. They may seek to help one party win extra seats (a partisan
   gerrymander), make incumbents of both parties safer (an incumbent-protection
   gerrymander) or target particular incumbents who have fallen out of favour.
-date: '2021-05-24'
+date: '2021-06-24'
 thumb_image_alt: Gerrymandering
 image_alt: Gerrymandering
 excerpt: lorem-ipsum
