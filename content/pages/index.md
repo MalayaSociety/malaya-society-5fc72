@@ -64,7 +64,7 @@ sections:
     testimonials:
       - author: Charles Hay
         avatar: /images/charles-hay.jpg
-        avatar_alt: Sean Salazar's photo
+        avatar_alt: Charles Hay's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
