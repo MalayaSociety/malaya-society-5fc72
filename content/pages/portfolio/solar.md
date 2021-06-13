@@ -1,6 +1,8 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: >-
+  The British Malaya Society backs green energy solutions such as solar, there
+  are still currently two available solar incentives in Malaysia.
 date: '2021-06-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
