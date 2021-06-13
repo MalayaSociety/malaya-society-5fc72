@@ -3,7 +3,7 @@ title: Solar
 subtitle: >-
   The British Malaya Society backs green energy solutions such as solar, there
   are still currently two available solar incentives in Malaysia.
-date: '2021-04-11'
+date: '2021-03-11'
 thumb_image_alt: Solar home
 image_alt: Solar home
 seo:
