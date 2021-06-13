@@ -9,7 +9,6 @@ subtitle: >-
 date: '2021-06-04'
 thumb_image_alt: Gerrymandering
 image_alt: Gerrymandering
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
