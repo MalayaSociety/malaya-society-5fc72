@@ -6,10 +6,7 @@ sections:
     type: section_form
     content: >
       Got queries for us? Find out more about memberships, events or to just get
-      involved.
-
-
-      A member of the team will respond to you as soon as possible.
+      involved. A member of the team will respond to you as soon as possible.
 
 
       Our check out our social pages over at [Twitter
