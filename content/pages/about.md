@@ -37,7 +37,9 @@ We are a non-governmental society that provides various services. **The British 
 
 Though our primary purpose is now indeed policymaking specialising in energy, transport, security intelligence, and healthcare, we still hold our heritage with us, but now with a modern and international twist. Our members produce and host art exhibitions, various sports tournaments, the best in regional cuisines, local coffee roasteries, and national (and international) excursions. We have our fair share of artists and history experts to keep the conversations lively.
 
-*Thank You for reading!*
+*Thank You for reading!
+
+Don't forget to check out our social presence!*
 
 <https://twitter.com/MalayaSociety>
 
