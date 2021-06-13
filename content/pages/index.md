@@ -5,9 +5,15 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We are a good governance not-for-profit society.
+
+
+      We seek to spread awareness of Malaysian culture and heritage across the
+      region, working with other organisations and government agencies.
+
+
+      Our presence includes Malaysia, Singapore, Australia and New Zealand.
     actions:
       - label: Let's talk
         url: /contact
