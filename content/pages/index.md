@@ -81,8 +81,10 @@ sections:
         avatar: /images/eurocham.jpg
         avatar_alt: EUROCHAM Malaysia's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Malaysia has recorded a total of RM80.6 billion worth of approved
+          investments in the manufacturing, services and primary sectors in Q1
+          of 2021. Proving Malaysia to be an attractive investment hub for
+          domestic and international investors.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the blog
