@@ -2,7 +2,7 @@
 title: 'Is Malaysia Ready for the Green Agenda? We Hope So, Too.'
 subtitle: 'Written by: BFM Morning Run Team'
 date: '2021-04-22'
-thumb_image_alt: Electric car charging
+thumb_image_alt: Electric vehicle charging
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
