@@ -2,7 +2,7 @@
 title: Gerrymandering
 subtitle: lorem-ipsum
 date: '2021-05-24'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Gerrymandering
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
