@@ -32,8 +32,9 @@ sections:
     type: section_grid
     title: What we do
     subtitle: >-
-      Malaysian culture is diverse and unique, with much to offer from the
-      world, we too, can learn proven best practices from others.
+      From policy analysis to events, we provide a wide range of services to
+      governments and communities, for our members and the general public, it's
+      what we do and our tradition.
     col_number: two
     is_numbered: true
     grid_items:
