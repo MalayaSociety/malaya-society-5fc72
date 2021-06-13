@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Is Malaysia Ready for the Green Agenda? We Hope So, Too.'
 subtitle: lorem-ipsum
 date: '2021-06-13'
 thumb_image_alt: lorem-ipsum
