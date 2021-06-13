@@ -62,7 +62,7 @@ sections:
       portfolio of contacts across the region.
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Charles Hay
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
