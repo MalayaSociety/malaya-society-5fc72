@@ -45,3 +45,5 @@ The economic inequality and boundary change in Lembah Pantai mean many see the c
 #### Gerrymandering and the youth vote
 
 The British Malaya Society is most concerned about how gerrymandering has affected the youth vote. According to constitutional lawyer Lim Wei Jiet, there is persistent underrepresentation for most youths aged 18 and 21 “are found in under-represented parliamentary constituencies, such as Bangi (178,790 voters), instead of over-represented ones, like Sabak Bernam (40,863).” These flaws can be curbed with a switch to MMP.
+
+*With thanks to FT.com and NST.com.my*
