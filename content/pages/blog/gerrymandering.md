@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/gerrymandering.jpg
+image: /images/gerrymandering.jpg
 ---
 ## Lorem ipsum
 
