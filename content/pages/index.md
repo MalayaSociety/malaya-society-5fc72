@@ -20,7 +20,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Our portfolio
     subtitle: >-
       Malaysian culture is diverse and unique, with much to offer from the
