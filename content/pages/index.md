@@ -43,10 +43,9 @@ sections:
           consultancy and expertise to companies and governments in areas such
           as energy policy and security.
       - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Showcasing the finest of Malaysian arts and culture to the world, and
+          bringing the best from the region to Malaysia.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
