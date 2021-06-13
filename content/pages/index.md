@@ -47,10 +47,9 @@ sections:
           Showcasing the finest of Malaysian arts and culture to the world, and
           bringing the best from the region to Malaysia.
       - title: Service Title
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Publishing best practices from local experts and the world to advise
+          and improve Malaysian quality of life for all.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
