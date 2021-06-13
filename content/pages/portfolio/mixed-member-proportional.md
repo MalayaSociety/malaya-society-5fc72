@@ -14,6 +14,10 @@ layout: project
 thumb_image: /images/parliament.jpg
 image: /images/parliament.jpg
 ---
+## The British Malaya Society and MMP
+
+The British Malaya Society has been encouraging Parliamentary reform in Malaysia, in order to create a more democratic and representative government, and to remove corrupt practices such as gerrymandering.
+
 ## What is MMP?
 
 MMP is the voting system used in various nations, most notably in Germany and New Zealand. It stands for ‘Mixed Member Proportional’. We use FPP to choose who represents us in Parliament.
