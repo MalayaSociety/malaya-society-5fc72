@@ -83,7 +83,9 @@ sections:
         style: button
 seo:
   title: British Malaya Society
-  description: The preview of the Exto theme
+  description: >-
+    We seek to spread awareness of Malaysian culture and heritage across the
+    region, working with other organisations and government agencies.
   extra:
     - name: 'og:type'
       value: website
