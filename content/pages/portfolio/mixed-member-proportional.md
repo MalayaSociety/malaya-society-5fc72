@@ -1,7 +1,7 @@
 ---
 title: Mixed-Member Proportional
 subtitle: A modern and representative Malaysia
-date: '2021-06-12'
+date: '2021-05-12'
 thumb_image_alt: Flags
 image_alt: Flags
 seo:
