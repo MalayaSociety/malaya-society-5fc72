@@ -56,7 +56,7 @@ sections:
           international team through events.
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: Our relationships
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
