@@ -22,7 +22,9 @@ image: /images/gerrymandering.jpg
 ---
 ## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Those engaged in gerrymandering rely heavily on winner-take-all voting rules. That is, when 51% of voters earn 100% of representation, those drawing districts can pack, stack and crack the population in order to make some votes count to their full potential and waste other votes. Gerrymandering has become easier today due to a combination of new technology to precisely draw districts and greater voter partisan rigidity that makes it easier to project the outcome of new districts.
 
-- Lorem ipsum
-- dolor sit amet
+
+
+*   Lorem ipsum
+*   dolor sit amet
