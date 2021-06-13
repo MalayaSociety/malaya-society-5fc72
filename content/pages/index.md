@@ -83,7 +83,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Latest posts
     subtitle: optional
     posts_number: 3
     col_number: three
