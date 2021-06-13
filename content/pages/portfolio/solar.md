@@ -5,7 +5,7 @@ subtitle: >-
   are still currently two available solar incentives in Malaysia.
 date: '2021-06-13'
 thumb_image_alt: Solar home
-image_alt: lorem-ipsum
+image_alt: Solar home
 seo:
   title: ''
   description: ''
