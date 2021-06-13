@@ -39,8 +39,6 @@ Though our primary purpose is now indeed policymaking specialising in energy, tr
 
 *Thank You for reading!*
 
-**
-
 <https://twitter.com/MalayaSociety>
 
 <https://instagram.com/MalayaSociety>
