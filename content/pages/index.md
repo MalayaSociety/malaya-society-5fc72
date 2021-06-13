@@ -79,7 +79,7 @@ sections:
           and policymaking in Malaysia and Indonesia.
       - author: EUROCHAM Malaysia
         avatar: /images/eurocham.jpg
-        avatar_alt: Deegan Wallace's photo
+        avatar_alt: EUROCHAM Malaysia's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
