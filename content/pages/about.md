@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-image: images/about.jpg
+image: /images/old-government.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
