@@ -29,7 +29,7 @@ Those engaged in gerrymandering rely heavily on winner-take-all voting rules. Th
 
 Some may think this is not a Malaysian issue, however gerrymandering is alive and well in Malaysia. In Malaysia’s last general election in 2013, Prime Minister Najib Razak’s party lost the parliamentary constituency of Lembah Pantai by a slim margin of 1,847 votes. In 2018, less than six weeks ahead of the voting on Wednesday, the entire national police headquarters with around 6,000 voting officers was moved into this key marginal seat in Kuala Lumpur. Most are expected to vote for the ruling party.
 
-Gerrymandering by the government to increase its chances of victory is nothing new in Malaysia’s managed democracy, with opposition voters typically bundled into huge constituencies to limit their presence in parliament. The British Malaya Society has been pushing voting reform, namely Mixed-Member Proportional which curbs the weaknesses of gerrymandering.
+Gerrymandering by the government to increase its chances of victory is nothing new in Malaysia’s managed democracy, with opposition voters typically bundled into huge constituencies to limit their presence in parliament. **The British Malaya Society** has been pushing voting reform, namely Mixed-Member Proportional which curbs the weaknesses of gerrymandering.
 
 “It hasn’t been transparent and it hasn’t been good for democracy,” said Fahmi Fadzil, the local Alliance of Hope candidate, who replaced incumbent MP Nurul Izzah Anwar, daughter of jailed opposition leader Anwar Ibrahim and his wife Wan Azizah Ismail, after the boundary changes were unveiled. Prime Minister Najib Razak’s office released a statement calling Mr Mahathir a “self-confessed dictator” and a man “obsessed by control”. Mr Mahathir has previously called Mr Najib a “monster” and a “thief”.
 
@@ -47,6 +47,6 @@ The economic inequality and boundary change in Lembah Pantai mean many see the c
 
 #### Gerrymandering and the youth vote
 
-The British Malaya Society is most concerned about how gerrymandering has affected the youth vote. According to constitutional lawyer Lim Wei Jiet, there is persistent underrepresentation for most youths aged 18 and 21 “are found in under-represented parliamentary constituencies, such as Bangi (178,790 voters), instead of over-represented ones, like Sabak Bernam (40,863).” These flaws can be curbed with a switch to MMP.
+**The British Malaya Society** is most concerned about how gerrymandering has affected the youth vote. According to constitutional lawyer Lim Wei Jiet, there is persistent underrepresentation for most youths aged 18 and 21 “are found in under-represented parliamentary constituencies, such as Bangi (178,790 voters), instead of over-represented ones, like Sabak Bernam (40,863).” These flaws can be curbed with a switch to MMP.
 
 *With thanks to FT.com and NST.com.my*
