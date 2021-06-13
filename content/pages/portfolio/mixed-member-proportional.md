@@ -2,7 +2,7 @@
 title: Mixed-Member Proportional
 subtitle: lorem-ipsum
 date: '2021-06-12'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Flags
 image_alt: lorem-ipsum
 seo:
   title: ''
