@@ -51,7 +51,7 @@ sections:
         content: >
           Publishing best practices from local experts and the world to advise
           and improve Malaysian quality of life for all.
-      - title: Relationships
+      - title: Our relationships
         content: >
           Fostering international relationships and connecting with our
           international team through events.
