@@ -4,7 +4,6 @@ subtitle: A small but robust battle for the future of coffee
 date: '2021-06-14'
 thumb_image_alt: Espresso
 image_alt: Espresso
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
