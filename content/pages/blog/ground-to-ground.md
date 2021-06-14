@@ -1,6 +1,6 @@
 ---
 title: Malaysia’s Coffee Heritage
-subtitle: lorem-ipsum
+subtitle: A small but robust battle for the future of coffee
 date: '2021-06-14'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
