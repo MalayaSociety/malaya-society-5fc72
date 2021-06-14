@@ -21,11 +21,11 @@ excerpt: >-
 ---
 #### Humble Origins
 
-From the humble cup of kopi that can be found on every street corner in Malaysia to the most expensive cup of espresso crafted from hand-ground roasted artisanal beans at the most Instagrammable café in town, coffee in Malaysia has come a long way since it was first introduced by the British in the 19th century as a possible cash crop.
+From the humble cup of *kopi* that can be found on every street corner in Malaysia to the most expensive cup of espresso crafted from hand-ground roasted artisanal beans at the most Instagrammable café in town, coffee in Malaysia has come a long way since it was first introduced by the British in the 19th century as a possible cash crop.
 
 Today, Malaysia is ranked 60th worldwide for coffee production, producing only approximately 0.1% of the world’s coffee. However, its coffee is truly remarkable both for the varietals grown and the deep and abiding local coffee culture that has grown up around it.
 
-Local coffee shops, known as kopitiam (kopi is Malay for coffee, tiam is Hokkien for shop), have been around since colonial times, when Malaysia was still a colony under British rule. Kopitiams mostly started life as small stalls near plantation settlements and in kampongs (villages), serving simple meals to fill workers’ stomachs and selling strong coffee to keep them awake. This traditional coffee was served hot and very sweet, typically made with tinned evaporated milk or sweetened condensed milk, and a great deal of sugar. The coffee was poured through a cloth filter (penapis kopi) and this increased filtration resulted in a higher-volume weaker drink, with less body and cleaner cup.
+Local coffee shops, known as *kopitiam *(*kopi *is Malay for coffee, *tiam *is Hokkien for shop), have been around since colonial times, when Malaysia was still a colony under British rule. *Kopitiams *mostly started life as small stalls near plantation settlements and in *kampongs *(villages), serving simple meals to fill workers’ stomachs and selling strong coffee to keep them awake. This traditional coffee was served hot and very sweet, typically made with tinned evaporated milk or sweetened condensed milk, and a great deal of sugar. The coffee was poured through a cloth filter (*penapis kopi*) and this increased filtration resulted in a higher-volume weaker drink, with less body and cleaner cup.
 
 #### A Rare Cup
 
@@ -41,4 +41,6 @@ Sadly though, Liberica is less-desired and, consequently, lower-priced on the wo
 
 Malaysia, therefore, needs to take the lead on changing mindsets and be proactive in working with the International Coffee Organization (ICO) to support and encourage the continued cultivation and marketing of the Liberica bean, as an irreplaceable part of the coffee genome, and a substantial part of the rich coffee heritage of Southeast Asia.
 
-For our part, **The British Malaya Society** is proud to bring our members pure, freshly-roasted, artisanal coffee, crafted from a unique blend of locally-grown Liberica and Robusta beans, as part of our Ground-to-Gound series, supporting the very best of Malaysia.
+For our part, **The British Malaya Society** is proud to bring our members pure, freshly-roasted, artisanal coffee, crafted from a unique blend of locally-grown Liberica and Robusta beans, as part of our Ground-to-Ground series, supporting the very best of Malaysia.
+
+Reporting by in Kate Appleby Singapore.
