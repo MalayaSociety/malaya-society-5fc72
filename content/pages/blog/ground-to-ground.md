@@ -43,4 +43,4 @@ Malaysia, therefore, needs to take the lead on changing mindsets and be proactiv
 
 For our part, **The British Malaya Society** is proud to bring our members pure, freshly-roasted, artisanal coffee, crafted from a unique blend of locally-grown Liberica and Robusta beans, as part of our Ground-to-Ground series, supporting the very best of Malaysia.
 
-Reporting by in Kate Appleby Singapore.
+*Reporting by in Kate Appleby Singapore.*
