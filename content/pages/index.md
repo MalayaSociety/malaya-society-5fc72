@@ -57,7 +57,7 @@ sections:
           international team through events.
   - section_id: testimonials
     type: section_testimonials
-    title: Our relationships
+    title: Relationships
     subtitle: >-
       From students to government and everything in between, we have built a
       portfolio of contacts across the region.
