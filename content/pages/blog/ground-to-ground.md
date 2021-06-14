@@ -14,7 +14,7 @@ layout: post
 thumb_image: /images/coffee.jpg
 image: /images/coffee.jpg
 excerpt: >-
-  the British Malaya Society is proud to bring our members pure,
+  The British Malaya Society is proud to bring our members pure,
   freshly-roasted, artisanal coffee, crafted from a unique blend of
   locally-grown Liberica and Robusta beans, as part of our Ground-to-Gound
   series, supporting the very best of Malaysia.
