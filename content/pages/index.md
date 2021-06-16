@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Welcome to the British Malaya Society
     content: >
-      We are a good governance not-for-profit society.
+      We are a good governance thank tank and not-for-profit society.
 
 
       We seek to spread awareness of Malaysian culture and heritage across the
